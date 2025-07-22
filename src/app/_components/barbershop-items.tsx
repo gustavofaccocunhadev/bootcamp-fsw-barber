@@ -1,10 +1,10 @@
-import Image from "next/image";
-import { Card, CardContent } from "./ui/card";
-import { Barbershop } from "@/generated/prisma";
-import { Button } from "./ui/button";
-import { Badge } from "./ui/badge";
-import { StarIcon } from "lucide-react";
-import Link from "next/link";
+import Image from "next/image"
+import { Card, CardContent } from "./ui/card"
+import { Barbershop } from "@prisma/client"
+import { Button } from "./ui/button"
+import { Badge } from "./ui/badge"
+import { StarIcon } from "lucide-react"
+import Link from "next/link"
 
 interface BarberShopItemProps {
   barbershop: Barbershop
@@ -42,5 +42,5 @@ const BarberShopItem = ({ barbershop }: BarberShopItemProps) => {
     </Card>
   )
 }
- 
-export default BarberShopItem;
+
+export default BarberShopItem
