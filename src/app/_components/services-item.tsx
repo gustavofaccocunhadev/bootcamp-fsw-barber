@@ -13,7 +13,7 @@ import {
   SheetTitle,
 } from "./ui/sheet"
 import { Calendar } from "./ui/calendar"
-import { da, ptBR } from "date-fns/locale"
+import { ptBR } from "date-fns/locale"
 import { format, isPast, isToday, set } from "date-fns"
 import { useEffect, useMemo, useState } from "react"
 import { Barbershop, Booking } from "@prisma/client"

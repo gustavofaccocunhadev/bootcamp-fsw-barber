@@ -9,13 +9,13 @@ import { quickSearchOptions } from "../_constants/search"
 import Image from "next/image"
 import { Dialog, DialogContent } from "./ui/dialog"
 import { DialogTrigger } from "@radix-ui/react-dialog"
-import { signIn, signOut, useSession } from "next-auth/react"
+import { signOut, useSession } from "next-auth/react"
 import { Avatar, AvatarImage } from "./ui/avatar"
 import SignInDialog from "./sign-in-dialog"
 
 const Siderbar = () => {
   const { data } = useSession()
-  const handleLoginWithGoogleClick = () => signIn("google")
+  //const handleLoginWithGoogleClick = () => signIn("google")
   const handleLogoutClick = () => signOut()
   return (
     <SheetContent>
