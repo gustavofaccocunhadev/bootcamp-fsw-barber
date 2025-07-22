@@ -32,7 +32,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <div className="mx-auto min-h-screen w-[375px] max-w-full overflow-y-auto border border-zinc-700 shadow-lg">
+        <div className="mx-auto h-full min-h-screen w-[375px] max-w-full overflow-y-auto border border-zinc-700 shadow-lg">
           <AuthProvider>
             <div className="flex h-full flex-col">
               <div className="flex-1">{children}</div>

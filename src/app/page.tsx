@@ -90,15 +90,22 @@ const Home = async () => {
             className="rounded-xl object-cover"
           />
         </div>
-        <h2 className="mb-3 mt-6 text-xs font-bold uppercase text-gray-400">
-          agendamentos
-        </h2>
-        <div className="flex gap-3 overflow-x-auto [&::-webkit-scrollbar]:hidden">
-          {bookings.map((booking) => (
-            <BookingItem key={booking.id} booking={booking} />
-          ))}
-        </div>
+        {bookings.length > 0 && (
+          <>
+            <h2 className="mb-3 mt-6 text-xs font-bold uppercase text-gray-400">
+              agendamentos
+            </h2>
 
+            <div className="flex gap-3 overflow-x-auto [&::-webkit-scrollbar]:hidden">
+              {bookings.map((booking) => (
+                <BookingItem
+                  key={booking.id}
+                  booking={JSON.parse(JSON.stringify(booking))}
+                />
+              ))}
+            </div>
+          </>
+        )}
         <h2 className="mb-3 mt-6 text-xs font-bold uppercase text-gray-400">
           recomendados
         </h2>
