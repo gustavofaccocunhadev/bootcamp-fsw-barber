@@ -35,7 +35,7 @@ const Siderbar = () => {
             </div>
           </div>
         ) : (
-          <div>
+          <div className="flex w-full items-center space-x-3">
             <h2 className="font-bold">Olá, faça seu login</h2>
             <Dialog>
               <DialogTrigger>

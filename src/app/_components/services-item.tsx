@@ -200,7 +200,9 @@ const ServiceItem = ({ service, barbershop }: SericeItemProps) => {
 
                 <SheetContent className="px-0">
                   <SheetHeader>
-                    <SheetTitle>Fazer Reserva</SheetTitle>
+                    <SheetTitle className="px-5 text-left">
+                      Fazer Reserva
+                    </SheetTitle>
                   </SheetHeader>
                   <div className="border-b border-solid py-5">
                     <Calendar
