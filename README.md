@@ -45,20 +45,20 @@ Todo o fluxo de desenvolvimento foi pensado para oferecer uma experiência fluid
 
 ## 📸 Imagens do Projeto
 
-### 🏠 Tela Inicial
-![Tela Inicial](https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-busca-servi%C3%A7o.png?raw=true)
+## 📸 Imagens do Projeto
 
-### 🧔‍♂️ Tela da Barbearia
-![Tela Barbearia](https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-barbearia.png?raw=true)
+<div align="center">
+  <img src="https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-busca-servi%C3%A7o.png?raw=true" width="300" alt="Tela Inicial"/>
+  <img src="https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-barbearia.png?raw=true" width="300" alt="Tela Barbearia"/>
+  <img src="https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-agendamentos.png?raw=true" width="300" alt="Tela Agendamentos"/>
+</div>
 
-### 📅 Tela de Agendamentos
-![Tela Agendamentos](https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-agendamentos.png?raw=true)
+<br/>
 
-### 📋 Informações da Reserva
-![Info Reserva](https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/info-reserva.png?raw=true)
-
-### ✂️ Tela de Reserva
-![Tela Reserva](https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-reserva.png?raw=true)
+<div align="center">
+  <img src="https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/info-reserva.png?raw=true" width="300" alt="Info Reserva"/>
+  <img src="https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-reserva.png?raw=true" width="300" alt="Tela Reserva"/>
+</div>
 
 ---
 
