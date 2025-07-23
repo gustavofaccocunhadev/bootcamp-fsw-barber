@@ -3,6 +3,7 @@
 Este é o resultado do projeto desenvolvido durante a **Full Stack Week**, uma aplicação full stack voltada para barbearias que permite o agendamento de serviços online de forma rápida e prática.
 
 🔗 Acesse em produção: [bootcamp-fsw-barber.vercel.app](https://bootcamp-fsw-barber.vercel.app/)  
+📁 Repositório: [github.com/gustavofaccocunhadev/bootcamp-fsw-barber](https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber)
 
 ---
 
@@ -42,9 +43,22 @@ Todo o fluxo de desenvolvimento foi pensado para oferecer uma experiência fluid
 
 ---
 
-## 📸 Imagens (em breve)
+## 📸 Imagens do Projeto
 
-> Planejo adicionar capturas de tela mostrando as principais funcionalidades.
+### 🏠 Tela Inicial
+![Tela Inicial](https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-busca-servi%C3%A7o.png?raw=true)
+
+### 🧔‍♂️ Tela da Barbearia
+![Tela Barbearia](https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-barbearia.png?raw=true)
+
+### 📅 Tela de Agendamentos
+![Tela Agendamentos](https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-agendamentos.png?raw=true)
+
+### 📋 Informações da Reserva
+![Info Reserva](https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/info-reserva.png?raw=true)
+
+### ✂️ Tela de Reserva
+![Tela Reserva](https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-reserva.png?raw=true)
 
 ---
 
