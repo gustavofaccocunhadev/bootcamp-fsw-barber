@@ -3,7 +3,6 @@
 Este é o resultado do projeto desenvolvido durante a **Full Stack Week**, uma aplicação full stack voltada para barbearias que permite o agendamento de serviços online de forma rápida e prática.
 
 🔗 Acesse em produção: [bootcamp-fsw-barber.vercel.app](https://bootcamp-fsw-barber.vercel.app/)  
-📁 Repositório: [github.com/gustavofaccocunhadev/bootcamp-fsw-barber](https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber)
 
 ---
 
@@ -45,8 +44,6 @@ Todo o fluxo de desenvolvimento foi pensado para oferecer uma experiência fluid
 
 ## 📸 Imagens do Projeto
 
-## 📸 Imagens do Projeto
-
 <div align="center">
   <img src="https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-busca-servi%C3%A7o.png?raw=true" width="300" alt="Tela Inicial"/>
   <img src="https://github.com/gustavofaccocunhadev/bootcamp-fsw-barber/blob/main/public/tela-barbearia.png?raw=true" width="300" alt="Tela Barbearia"/>
@@ -74,7 +71,7 @@ Atualmente pretendo seguir evoluindo esse projeto com:
 ## 👨‍💻 Autor
 
 **Gustavo Cunha**  
-[LinkedIn](https://www.linkedin.com/in/gustavofaccocunha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Cunha-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofaccocunha)
 
 ---
 
